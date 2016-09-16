@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F86C872C1D8BA30C00773240 /* ContactViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F86C872B1D8BA30C00773240 /* ContactViewModel.swift */; };
 		F8A1FE471D872B210080F17A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A1FE461D872B210080F17A /* AppDelegate.swift */; };
 		F8A1FE491D872B210080F17A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A1FE481D872B210080F17A /* ViewController.swift */; };
 		F8A1FE4C1D872B210080F17A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F8A1FE4A1D872B210080F17A /* Main.storyboard */; };
@@ -37,7 +36,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F86C872B1D8BA30C00773240 /* ContactViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactViewModel.swift; sourceTree = "<group>"; };
 		F8A1FE431D872B200080F17A /* ContactBrowser.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ContactBrowser.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8A1FE461D872B210080F17A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F8A1FE481D872B210080F17A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -108,7 +106,6 @@
 				F8A1FE4A1D872B210080F17A /* Main.storyboard */,
 				F8A1FE781D8741960080F17A /* ContactTableViewController.swift */,
 				F8A1FE741D873A6F0080F17A /* ContactTableViewCell.swift */,
-				F86C872B1D8BA30C00773240 /* ContactViewModel.swift */,
 				F8A1FE4D1D872B210080F17A /* Assets.xcassets */,
 				F8A1FE4F1D872B210080F17A /* LaunchScreen.storyboard */,
 				F8A1FE521D872B210080F17A /* Info.plist */,
@@ -271,7 +268,6 @@
 			files = (
 				F8A1FE791D8741960080F17A /* ContactTableViewController.swift in Sources */,
 				F8A1FE751D873A6F0080F17A /* ContactTableViewCell.swift in Sources */,
-				F86C872C1D8BA30C00773240 /* ContactViewModel.swift in Sources */,
 				F8A1FE491D872B210080F17A /* ViewController.swift in Sources */,
 				F8A1FE471D872B210080F17A /* AppDelegate.swift in Sources */,
 			);
